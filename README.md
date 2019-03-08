@@ -16,4 +16,4 @@ Code for the calculation of the results presented in our Letter to the Editor is
 If you find any problems with our data or code, please create an [issue](https://github.com/alexisrsantos/Epi-Letter/issues) and we will answer it as soon as possible. 
 
 # Metadata
-This repository is maintained by Dr. Alexis R. Santos (ars39@psu.edu) and reviewed by Dr. Jeffrey T. Howard (jeffrey.howard@utsa.edu).
+This repository is maintained by [Dr. Alexis R. Santos](ars39@psu.edu) and reviewed by [Dr. Jeffrey T. Howard](jeffrey.howard@utsa.edu).
