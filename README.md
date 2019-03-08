@@ -5,7 +5,6 @@ Here we provide code for: **Re: One does not mean all over the place: Excess dea
 
 # Use
 * Feel free to create a new branch to complete your own analysis.
-* Each folder has its own read me file.
 
 # Data
 I obtained the data from the the Puerto Rico Vital Statistics System as summarized by [Santos-Burgoa and colleagues (2018)](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30209-2/fulltext).
