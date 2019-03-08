@@ -1,4 +1,4 @@
-# Epi-Letter
+# Letter to the Editor: Excess death estimates in Puerto Rico have been consistent
 
 # Introduction
 Here we provide code for: **Re: One does not mean all over the place: Excess death estimates in Puerto Rico have been consistent**
