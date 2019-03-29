@@ -1,7 +1,7 @@
 # Letter to the Editor: Excess death estimates in Puerto Rico have been consistent
 
 # Introduction
-Here we provide code for: **Re: One does not mean all over the place: Excess death estimates in Puerto Rico have been consistent**
+Here we provide code for: **Re: Excess death estimates in Puerto Rico have been consistent all along**
 
 # Use
 * Feel free to create a new branch to complete your own analysis.
