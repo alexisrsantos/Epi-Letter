@@ -1,4 +1,4 @@
-# Letter to the Editor: Excess death estimates in Puerto Rico have been consistent
+# Letter to the Editor: Excess death estimates in Puerto Rico have been consistent all along
 
 # Introduction
 Here we provide code for: **Re: Excess death estimates in Puerto Rico have been consistent all along**
